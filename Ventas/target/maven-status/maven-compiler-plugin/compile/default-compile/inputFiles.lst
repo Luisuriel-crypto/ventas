@@ -1,9 +1,16 @@
-D:\Tecnologías para la integración de soluciones\Ventas\src\main\java\org\example\ventas\RealizarVentaRequest.java
-D:\Tecnologías para la integración de soluciones\Ventas\src\main\java\org\example\ventas\RealizarVentaResponse.java
-D:\Tecnologías para la integración de soluciones\Ventas\src\main\java\org\example\ventas\ModificarVentaRequest.java
-D:\Tecnologías para la integración de soluciones\Ventas\src\main\java\org\example\ventas\EliminarVentaRequest.java
-D:\Tecnologías para la integración de soluciones\Ventas\src\main\java\org\example\ventas\package-info.java
-D:\Tecnologías para la integración de soluciones\Ventas\src\main\java\org\example\ventas\ObjectFactory.java
-D:\Tecnologías para la integración de soluciones\Ventas\src\main\java\org\example\ventas\ModificarVentaResponse.java
-D:\Tecnologías para la integración de soluciones\Ventas\src\main\java\org\example\ventas\EliminarVentaResponse.java
-D:\Tecnologías para la integración de soluciones\Ventas\src\main\java\Integracion\Ventas\VentasApplication.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\com\example\ventas\ProductosV.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\com\example\ventas\VentasEndPoint.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\me\tell\ventas\MostrarVentaRequest.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\me\tell\ventas\package-info.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\com\example\ventas\Ventasconfiguracion.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\me\tell\ventas\RealizarVentaRequest.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\com\example\ventas\Iventas.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\com\example\ventas\VentasApplication.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\me\tell\ventas\EliminarVentaResponse.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\me\tell\ventas\RealizarVentaResponse.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\me\tell\ventas\ModificarVentaRequest.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\me\tell\ventas\EliminarVentaRequest.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\me\tell\ventas\ObjectFactory.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\com\example\ventas\RealizarVentaRequest.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\me\tell\ventas\MostrarVentaResponse.java
+C:\Users\Luzma\Documents\Integracion Soluciones\ventas\src\main\java\me\tell\ventas\ModificarVentaResponse.java
