@@ -1,0 +1,9 @@
+org\example\ventas\EliminarVentaRequest.class
+org\example\ventas\ModificarVentaRequest.class
+org\example\ventas\RealizarVentaRequest.class
+Integracion\Ventas\VentasApplication.class
+org\example\ventas\ObjectFactory.class
+org\example\ventas\ModificarVentaResponse.class
+org\example\ventas\EliminarVentaResponse.class
+org\example\ventas\package-info.class
+org\example\ventas\RealizarVentaResponse.class
